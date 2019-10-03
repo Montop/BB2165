@@ -1,0 +1,61 @@
+
+                         MODELLER 9.22, 2019/06/19, r11413
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2019 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Linux emil-spectre 4.15.0-65-generic x86_64
+Date and time of compilation         : 2019/06/19 14:00:54
+MODELLER executable type             : x86_64-intel8
+Job starting time (YY/MM/DD HH:MM:SS): 2019/10/03 16:12:48
+
+read_to_681_> topology.submodel read from topology file:        3
+iatmcls_286W> MODEL atom not classified:  MET:OXT  MET
+preppdf_453W> No fixed restraints selected; there may be some dynamic ones.
+preppdf_454W> Restraints file was probably not read; use restraints.append().
+
+ Local dope score thing for model based on template 5X2M:
+2 <-34.246 / 3961>
+27 <-44.652 / 4743>
+29 <35.630 / 4559>
+44 < 0.540 / 3600>
+65 <104.462 / 4702>
+104 <-53.892 / 5323>
+105 <-85.143 / 4997>
+106 <-36.750 / 3286>
+107 <-47.687 / 4127>
+127 <-52.794 / 4090>
+128 <40.037 / 3206>
+129 <81.817 / 4955>
+130 <-29.037 / 3126>
+149 <34.965 / 3001>
+152 <-21.848 / 6850>
+177 < 5.422 / 6935>
+239 <-116.432 / 4432>
+240 <-81.655 / 4749>
+241 <65.760 / 4138>
+244 < 1.200 / 6143>
+264 <-64.384 / 6207>
+265 <-54.042 / 4093>
+266 <-66.321 / 9232>
+269 <-27.304 / 4497>
+271 <18.803 / 3055>
+344 <-13.584 / 4624>
+345 <-17.876 / 6901>
+346 <12.696 / 4611>
